@@ -1,13 +1,13 @@
-// @homepageURL  https://domain/folder/index.html
-// @supportURL   https://domain/folder/issues.html
-// @downloadURL  https://domain/folder/code.user.js
-// @updateURL    https://domain/folder/code.user.js
+// @homepageURL  https://github.com/lonjaju/tampermonkey_scripts/blob/master/scripts/pp/pp_ipa.md
+// @supportURL   https://github.com/lonjaju/tampermonkey_scripts/issues
+// @downloadURL  https://github.com/lonjaju/tampermonkey_scripts/raw/master/scripts/pp/ipa_down.user.js
+// @updateURL    https://github.com/lonjaju/tampermonkey_scripts/raw/master/scripts/pp/ipa_down.user.js
 
 // ==UserScript==
 // @name         pp_ipa_download_url
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  自动获取pp助手 下载详情页 ipa包下载链接
+// @description  自动获取pp助手 下载详情页 ipa包下载链接[不需安装PP助手电脑版]
 // @author       Long
 // @match        https://www.25pp.com/ios/detail_*
 // @grant        none
